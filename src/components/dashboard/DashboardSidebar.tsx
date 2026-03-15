@@ -36,7 +36,7 @@ export function DashboardSidebar() {
             <span className="block text-center text-xl gradient-text font-bold">V</span>
           )}
         </div>
-        <SidebarGroup defaultOpen>
+        <SidebarGroup>
           <SidebarGroupLabel>Principal</SidebarGroupLabel>
           <SidebarGroupContent>
             <SidebarMenu>
